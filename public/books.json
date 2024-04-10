@@ -1,0 +1,24 @@
+{"books":[
+  {
+    "id": 1,
+    "title": "Pride and Prejudice",
+    "author": "Jane Auston",
+    "ISBNNumber": "isbn1",
+    "publicationdate": "1813"
+  },
+  {
+    "id": 2,
+    "title": "The Great Gatsby",
+    "author": "Scott Fitzgerald's",
+    "ISBNNumber": "isbn2",
+    "publicationdate": "1922"
+  },
+  {
+    "id": 3,
+    "title": "Wuthering Heights",
+    "author": "Emily Bronte",
+    "ISBNNumber": "isbn3",
+    "publicationdate": "1847"
+  }
+]
+}

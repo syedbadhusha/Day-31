@@ -1,0 +1,21 @@
+{"authors":[
+  {
+    "id":1,
+    "name": "Jane Auston",
+    "birthdate": "16-12-1775",
+    "shortbiography": "Jane Austen was an English novelist known primarily for her six novels, which implicitly interpret, critique, and comment upon the British landed gentry at the end of the 18th century"
+  },
+  {
+    "id":2,
+    "name": "Scott Fitzgerald's",
+    "birthdate": "24-11-1896",
+    "shortbiography": "Francis Scott Key Fitzgerald was an American novelist, essayist, and short story writer"
+  },
+  {
+    "id":3,
+    "name": "Emily Bronte",
+    "birthdate": "30-07-1818",
+    "shortbiography": "Emily Jane Brontë was an English novelist and poet who is best known for her only novel, Wuthering Heights, now considered a classic of English literature"
+  }
+]
+}

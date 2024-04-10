@@ -1,0 +1,39 @@
+.iconalign{
+  text-align: right;
+}
+.iconaddm{
+  font-size: 50px;
+  margin: 5px;
+}
+.iconaddm:hover{
+  color: rgb(53, 170, 53);
+}
+.iconEdit{
+  width: 20px;
+  height: 20px;
+  margin: 5px;
+}
+.iconEdit:hover{
+  color: slategrey;
+}
+.formLable{
+  width: 150px;
+}
+.formInput{
+  border-radius: 20px;
+  width: 250px;
+}
+.line{
+  padding: 10px;
+}
+.submitbtn{
+  border-radius: 20px;
+  background-color: seagreen;
+  width: 150px;
+  border: 2px black solid;
+  color: black;
+}
+.submitbtn:hover{
+  background-color: rgb(177, 228, 84);
+
+}
